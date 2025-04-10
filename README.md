@@ -1,17 +1,7 @@
-## Hi there 👋
-
 # 👋 ¡Hola! / Hello there! 👨‍💻
 
 Soy **Benjamín Cabral Farré**, Ingeniero en Software apasionado por proyectos disruptivos.  
 I'm a **Software Engineer** passionate about building innovative and impactful projects.
-
-## 🚀 Tecnologías que uso / Technologies I work with
-
-**Frontend:** React.js  
-**Backend:** Node.js, Java Spring Boot (learning Rust 🦀)  
-**Databases:** MySQL, PostgreSQL  
-**DevOps:** Docker, AWS  
-**Scripting:** Google App Script, Python  
 
 ## 💼 Actualmente / Currently
 
@@ -19,18 +9,34 @@ I'm a **Software Engineer** passionate about building innovative and impactful p
 - 🧑‍🎨 Realicé el **frontend completo** para un software de transferencias para una financiera local
 - 📚 Aprendiendo **Rust** para poder contribuir en proyectos de **open source**
 
+<div align="center">
+  <a href="cabralbenja2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/benjamin-cabral-farré" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+## 🛠️ Tecnologías que uso / Technologies I work with
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,spring,rust,python" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,sequelize" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,postman" />
+</p>
+
+<hr>
+
 ## 📌 Proyecto Destacado / Featured Project
 
 🚲 API para alquiler de bicicletas en Java Spring Boot  
 👉 [Ver repositorio](https://github.com/cabralfbenja/Backend)
-
-## 📫 Contacto / Get in touch
-
-📧 cabralbenja2001@gmail.com  
-💼 Abierto a oportunidades laborales / Open to job offers  
-
-## 🌍 Sobre mí / About me
-
-- 💬 Hablo **español**, **inglés** y **francés**  
-- ⚽ Fanático del **fútbol** y el **básquet**  
-- 🎹 Toco el **piano** en mi tiempo libre
