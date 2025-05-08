@@ -7,7 +7,7 @@ I'm a **Software Engineer** passionate about building innovative and impactful p
 
 - 🔧 Trabajo como **Backend Engineer** en **B.Health**
 - 🧑‍🎨 Realicé el **frontend completo** para un software de transferencias para una financiera local
-- 📚 Aprendiendo **Rust** para poder contribuir en proyectos de **open source**
+- 📚 Aprendiendo **Go** para poder contribuir en proyectos de **open source**
 
 <div align="center">
   <a href="cabralbenja2001@gmail.com">
@@ -25,7 +25,7 @@ I'm a **Software Engineer** passionate about building innovative and impactful p
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,spring,rust,python" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,spring,go,python" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,sequelize" />
