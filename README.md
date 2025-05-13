@@ -5,8 +5,7 @@ I'm a **Software Engineer** passionate about building innovative and impactful p
 
 ## 💼 Actualmente / Currently
 
-- 🔧 Trabajo como **Backend Engineer** en **B.Health**
-- 🧑‍🎨 Realicé el **frontend completo** para un software de transferencias para una financiera local
+- 🔧 Trabajo en un software de transferencias para una financiera local
 - 📚 Aprendiendo **Go** para poder contribuir en proyectos de **open source**
 
 <div align="center">
