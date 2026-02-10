@@ -5,8 +5,7 @@ I'm a **Software Engineer** passionate about building innovative and impactful p
 
 ## 💼 Actualmente / Currently
 
-- 🔧 Trabajo en un software de transferencias para una financiera local
-- 📚 Aprendiendo **Go** para poder contribuir en proyectos de **open source**
+- 🔧 Trabajo como founding engineer en Valto, haciendo software para inmobiliarias.
 
 <div align="center">
   <a href="cabralbenja2001@gmail.com">
